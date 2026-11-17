@@ -1,12 +1,13 @@
 # Parametrização do agente do grupo. Copie para a raiz do projeto como grupo.yaml.
-grupo: "Grupo 2"
-negocio: "PlugSmart Recharge"
+grupo: "Grupo 1"
+negocio: "Prevenção e resposta a desastres naturais (AlertIA e Vespera)"
 resumo: >
-  Rede de recarga compartilhada para veículos elétricos: motoristas encontram e reservam
-  horários; anfitriões definem quando disponibilizar seus carregadores e quanto cobrar.
-  Um agente de IA orienta os usuários e distribui a demanda entre os pontos.
-publico: "Motoristas de veículos elétricos e anfitriões com carregadores disponíveis"
-instrucoes_adicionais: ""
+  Duas propostas para cidades e Defesa Civil: a AlertIA identifica áreas de risco e simula
+  obras preventivas em 3D; a Vespera antecipa eventos extremos e propõe um plano de resposta priorizado.
+publico: "Prefeituras, Defesa Civil, engenheiros e equipes de planejamento urbano"
+instrucoes_adicionais: >
+  Ao comparar as propostas, deixe claro o que é da AlertIA (planejamento preventivo)
+  e o que é da Vespera (resposta a eventos).
 
 agente:
   busca_web: true
